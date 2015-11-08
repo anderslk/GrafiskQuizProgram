@@ -1,5 +1,5 @@
 ﻿namespace WindowsFormsApplication1
-{
+{//Symbolsk test ændring.
     partial class Form1
     {
         /// <summary>
