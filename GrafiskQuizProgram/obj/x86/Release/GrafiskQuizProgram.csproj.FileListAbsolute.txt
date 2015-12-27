@@ -1,7 +1,0 @@
-C:\Users\Anders\Downloads\perlin_noise_csharp\GrafiskQuizProgram\GrafiskQuizProgram\bin\Release\GrafiskQuizProgram.exe
-C:\Users\Anders\Downloads\perlin_noise_csharp\GrafiskQuizProgram\GrafiskQuizProgram\bin\Release\GrafiskQuizProgram.pdb
-C:\Users\Anders\Downloads\perlin_noise_csharp\GrafiskQuizProgram\GrafiskQuizProgram\obj\x86\Release\WindowsFormsApplication1.Form1.resources
-C:\Users\Anders\Downloads\perlin_noise_csharp\GrafiskQuizProgram\GrafiskQuizProgram\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
-C:\Users\Anders\Downloads\perlin_noise_csharp\GrafiskQuizProgram\GrafiskQuizProgram\obj\x86\Release\GrafiskQuizProgram.csproj.GenerateResource.Cache
-C:\Users\Anders\Downloads\perlin_noise_csharp\GrafiskQuizProgram\GrafiskQuizProgram\obj\x86\Release\GrafiskQuizProgram.exe
-C:\Users\Anders\Downloads\perlin_noise_csharp\GrafiskQuizProgram\GrafiskQuizProgram\obj\x86\Release\GrafiskQuizProgram.pdb
